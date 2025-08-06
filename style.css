@@ -1,0 +1,27 @@
+body {
+  background-color: #0a0a0a;
+  color: #dcd0ff;
+  font-family: 'Poppins', sans-serif;
+}
+
+.card {
+  background: #1e1e2f;
+  border: 1px solid #6337b8;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px #6337b870;
+}
+
+button {
+  background: #6337b8;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #7e47db;
+}
